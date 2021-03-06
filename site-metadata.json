@@ -18,7 +18,7 @@
                 "type": "action",
                 "label": "Progetto",
                 "url": "/features",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "type": "action",
