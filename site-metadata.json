@@ -47,7 +47,7 @@
             {
                 "type": "action",
                 "label": "Contattaci",
-                "url": "/signup",
+                "url": "/conct",
                 "style": "primary"
             }
         ]
