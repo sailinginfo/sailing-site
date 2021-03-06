@@ -149,5 +149,6 @@
         ],
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>."
     },
-    "domain": "https://sailing-site-3657c.netlify.app"
+    "domain": "https://sailing-site-3657c.netlify.app",
+    "favicon": "/images/UNIPV-SAILING_MINI-BLU.png"
 }
