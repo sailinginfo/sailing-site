@@ -70,7 +70,16 @@ sections:
           Chi è lo sponsor in questione, cosa fa e in che modo ha aiutato il
           progetto sailing
         highlight: false
-        actions: []
+        actions:
+          - label: lorem-ipsum
+            url: '#'
+            style: link
+            has_icon: false
+            icon: arrow-left
+            icon_position: left
+            new_window: false
+            no_follow: false
+            type: action
         type: pricing_plan
     type: section_pricing
   - type: section_reviews
