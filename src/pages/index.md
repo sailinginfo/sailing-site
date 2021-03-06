@@ -60,6 +60,12 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    pricing_plans: []
+    type: section_pricing
   - type: section_reviews
     section_id: reviews
     title: Testimonials
@@ -171,12 +177,6 @@ sections:
     background: gray
     actions: []
     type: section_content
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    pricing_plans: []
-    type: section_pricing
 seo:
   type: stackbit_page_meta
   title: Stackbit Azimuth Theme
