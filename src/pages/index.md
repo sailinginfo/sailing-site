@@ -65,7 +65,7 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     pricing_plans:
-      - price: lorem-ipsum
+      - price: Jeco Pavia
         details: >-
           ## Lorem ipsum
 
