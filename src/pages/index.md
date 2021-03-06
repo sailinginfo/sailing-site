@@ -42,10 +42,14 @@ sections:
         actions: []
       - type: feature_item
         title: Cool Feature of Your Services
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          The Foiling SuMoth Challenge is a competition inspired by the need for
+          more sustainable and efficient sailboat designs, along with coherent
+          manufacturing methods.
+
+          The ultimate goal of this competition is to promote sustainable
+          practices by challenging the University and higher education students
+          in a friendly, technical, and athletic competition.
         image: images/feature3.png
         image_alt: App user profile preview
         actions:
