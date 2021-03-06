@@ -50,7 +50,7 @@ sections:
           The ultimate goal of this competition is to promote sustainable
           practices by challenging the University and higher education students
           in a friendly, technical, and athletic competition.
-        image: images/feature3.png
+        image: /images/sumoth.jpg
         image_alt: App user profile preview
         actions:
           - type: action
