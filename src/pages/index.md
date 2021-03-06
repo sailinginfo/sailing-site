@@ -9,7 +9,7 @@ sections:
       approccio pratico per avvicinare gli studenti al mestiere dell’ingegnere
       in tutte le sue sfaccettature da quelle più teoriche, gestionali,
       progettuali a quelle più applicative.
-    image: images/hero.png
+    image: /images/UNIPV-SAILING_BIANCO_BLU.png
     image_alt: App preview
     actions:
       - type: action
