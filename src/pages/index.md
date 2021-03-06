@@ -38,14 +38,7 @@ sections:
           auctor.
         image: /images/graceful-amaranth.jpg
         image_alt: App users welcoming a new member
-        actions:
-          - type: action
-            label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - type: feature_item
         title: Cool Feature of Your Services
         content: >-
