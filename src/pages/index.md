@@ -32,10 +32,11 @@ sections:
         actions: []
       - type: feature_item
         title: Awesome Feature of Your Services
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          Imparare a instaurare e mantenere rapporti di collaborazione con le
+          aziende del settore.
+
+          Raggiungere competenze certificate spendibili nel mondo del lavoro.
         image: /images/graceful-amaranth.jpg
         image_alt: App users welcoming a new member
         actions: []
