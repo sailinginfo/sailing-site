@@ -62,7 +62,6 @@ sections:
             icon_position: right
   - section_id: lorem-ipsum
     title: Sponsor
-    subtitle: lorem-ipsum
     background: gray
     pricing_plans:
       - price: Jeco Pavia
