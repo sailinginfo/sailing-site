@@ -23,7 +23,7 @@
             },
             {
                 "type": "action",
-                "label": "Pricing",
+                "label": "SpondoPricing",
                 "url": "/pricing",
                 "style": "link"
             },
