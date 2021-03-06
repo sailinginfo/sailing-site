@@ -66,17 +66,9 @@ sections:
     background: gray
     pricing_plans:
       - price: Jeco Pavia
-        details: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+        details: >
+          Chi è lo sponsor in questione, cosa fa e in che modo ha aiutato il
+          progetto sailing
         highlight: false
         actions: []
         type: pricing_plan
