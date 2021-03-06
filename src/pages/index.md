@@ -11,11 +11,7 @@ sections:
       progettuali a quelle più applicative.
     image: /images/UNIPV-SAILING_BIANCO_BLU.png
     image_alt: App preview
-    actions:
-      - type: action
-        label: Learn More
-        url: /features
-        style: primary
+    actions: []
   - type: section_features
     section_id: features
     title: Features
