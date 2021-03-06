@@ -48,7 +48,8 @@
                 "type": "action",
                 "label": "Contattaci",
                 "url": "/conctact",
-                "style": "primary"
+                "style": "primary",
+                "new_window": true
             }
         ]
     },
