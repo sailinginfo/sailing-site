@@ -65,8 +65,7 @@ sections:
     subtitle: lorem-ipsum
     background: gray
     pricing_plans:
-      - subtitle: lorem-ipsum
-        price: lorem-ipsum
+      - price: lorem-ipsum
         details: >-
           ## Lorem ipsum
 
