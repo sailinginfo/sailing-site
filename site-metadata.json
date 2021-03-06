@@ -47,7 +47,7 @@
             {
                 "type": "action",
                 "label": "Contattaci",
-                "url": "/conct",
+                "url": "/conctact",
                 "style": "primary"
             }
         ]
