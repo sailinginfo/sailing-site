@@ -35,7 +35,7 @@
             },
             {
                 "type": "action",
-                "label": "Sign Up",
+                "label": "Contattaci",
                 "url": "/signup",
                 "style": "primary"
             }
