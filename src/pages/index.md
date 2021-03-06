@@ -18,7 +18,7 @@ sections:
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
-    background: gray
+    background: white
     features:
       - type: feature_item
         title: The Best Feature of Your Services
