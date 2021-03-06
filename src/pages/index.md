@@ -4,9 +4,11 @@ sections:
   - type: section_hero
     section_id: hero
     title: Sailing Team
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Questo progetto punta a Fornire una formazione fortemente connotata da un
+      approccio pratico per avvicinare gli studenti al mestiere dell’ingegnere
+      in tutte le sue sfaccettature da quelle più teoriche, gestionali,
+      progettuali a quelle più applicative.
     image: images/hero.png
     image_alt: App preview
     actions:
