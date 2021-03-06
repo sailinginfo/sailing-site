@@ -79,12 +79,6 @@
                     },
                     {
                         "type": "action",
-                        "label": "Sign Up",
-                        "url": "/signup",
-                        "style": "link"
-                    },
-                    {
-                        "type": "action",
                         "label": "Contact",
                         "url": "/contact",
                         "style": "link"
