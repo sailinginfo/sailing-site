@@ -22,10 +22,11 @@ sections:
     features:
       - type: feature_item
         title: The Best Feature of Your Services
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >+
+          Sviluppare l’attitudine al raggiungimento di scopi mirati anche in
+          ambito competitivo rispettando le tempistiche di realizzazione
+          ottimizzando gli aspetti teorici e pratici.
+
         image: /images/1.png
         image_alt: App preview on a phone and tablet
         actions:
