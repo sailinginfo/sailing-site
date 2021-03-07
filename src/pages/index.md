@@ -117,17 +117,11 @@ sections:
     image: /images/4.png
   - section_id: materiali
     title: TEAM MATERIALI
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Studiare la relazione proprietà del materiale e impiego, operare scelte di
+      metodologie produttive delle diverse componenti tenendo conto delle
+      prestazioni, degli aspetti economici e di ecosostenibilità e delle
+      problematiche tecnico realizzative.
     image_alt: lorem-ipsum
     background: gray
     actions: []
