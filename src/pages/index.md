@@ -87,17 +87,10 @@ sections:
     background: white
   - section_id: performance
     title: TEAM PERFORMANCE
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      Creare un modello CAD attraverso l’utilizzo di calcoli sperimentali,
+      teorici e simulazioni fluidodinamiche al calcolatore, rendendo lo studente
+      in grado di progettare anche senza l’ausilio di un modello fisico
     image_alt: lorem-ipsum
     background: gray
     actions: []
