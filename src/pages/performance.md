@@ -1,5 +1,5 @@
 ---
-title: Perf
+title: Performance
 sections: []
 seo:
   title: ''
