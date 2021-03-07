@@ -107,17 +107,9 @@ sections:
     image: /images/2.png
   - section_id: struttura
     title: TEAM STRUTTURA
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      facilitare un approccio anche pratico al lavoro di Team-working e agli
+      strumenti utilizzati nella progettazione odierna.
     image_alt: lorem-ipsum
     background: white
     actions: []
