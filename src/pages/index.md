@@ -84,7 +84,7 @@ sections:
   - type: section_posts
     section_id: recent-posts
     title: Latest Posts
-    background: gray
+    background: white
   - section_id: lorem-ipsum
     title: lorem-ipsum
     content: >-
