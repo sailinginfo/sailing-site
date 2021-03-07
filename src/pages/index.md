@@ -145,7 +145,7 @@ sections:
         type: action
     type: section_content
     image: /images/5.png
-  - section_id: lorem-ipsum
+  - section_id: web
     title: lorem-ipsum
     content: >-
       ## Lorem ipsum
