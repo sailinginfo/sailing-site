@@ -29,7 +29,7 @@
             },
             {
                 "type": "action",
-                "label": "Teams",
+                "label": "Team",
                 "url": "/style-guide",
                 "style": "link"
             },
