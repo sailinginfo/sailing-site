@@ -114,6 +114,7 @@ sections:
     background: white
     actions: []
     type: section_content
+    image: /images/4.png
   - section_id: lorem-ipsum
     title: lorem-ipsum
     content: >-
