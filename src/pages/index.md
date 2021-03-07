@@ -115,7 +115,7 @@ sections:
     actions: []
     type: section_content
     image: /images/4.png
-  - section_id: lorem-ipsum
+  - section_id: materiali
     title: lorem-ipsum
     content: >-
       ## Lorem ipsum
