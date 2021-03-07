@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Perf
 sections: []
 seo:
   title: ''
