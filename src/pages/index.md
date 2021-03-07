@@ -159,6 +159,7 @@ sections:
     background: white
     actions: []
     type: section_content
+    image: /images/rainy-triceratops.jpg
 seo:
   type: stackbit_page_meta
   title: Stackbit Azimuth Theme
