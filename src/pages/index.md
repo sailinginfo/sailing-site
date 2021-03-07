@@ -116,7 +116,7 @@ sections:
     type: section_content
     image: /images/4.png
   - section_id: materiali
-    title: lorem-ipsum
+    title: TEAM MATERIALI
     content: >-
       ## Lorem ipsum
 
