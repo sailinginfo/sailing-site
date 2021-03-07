@@ -85,7 +85,7 @@ sections:
     section_id: recent-posts
     title: Latest Posts
     background: white
-  - section_id: lorem-ipsum
+  - section_id: performance
     title: lorem-ipsum
     content: >-
       ## Lorem ipsum
