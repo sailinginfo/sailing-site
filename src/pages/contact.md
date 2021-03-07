@@ -4,10 +4,9 @@ sections:
   - type: section_contact
     section_id: contact
     title: Linea diretta
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    content: >
+      Per chiunque fosse interessato a maggiori informazioni in merito al
+      progetto non si preoccupi a contattarci
     background: gray
     form_id: contactForm
     form_fields:
