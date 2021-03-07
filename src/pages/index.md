@@ -146,7 +146,7 @@ sections:
     type: section_content
     image: /images/5.png
   - section_id: web
-    title: lorem-ipsum
+    title: TEAM WEB
     content: >-
       ## Lorem ipsum
 
