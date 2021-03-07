@@ -34,6 +34,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
+    image: /images/UNIPV-SAILING_MINI-NERO.jpg
 seo:
   title: ''
   description: ''
