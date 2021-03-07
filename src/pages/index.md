@@ -158,7 +158,7 @@ sections:
     image_alt: lorem-ipsum
     background: white
     actions:
-      - label: lorem-ipsum
+      - label: More
         url: '#'
         style: link
         has_icon: false
