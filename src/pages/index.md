@@ -106,7 +106,7 @@ sections:
     type: section_content
     image: /images/2.png
   - section_id: struttura
-    title: lorem-ipsum
+    title: TEAM STRUTTURA
     content: >-
       ## Lorem ipsum
 
