@@ -19,6 +19,11 @@ sections:
     actions: []
     type: section_content
     image: /images/incredible-spruce.jpg
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    type: section_posts
 seo:
   title: ''
   description: ''
