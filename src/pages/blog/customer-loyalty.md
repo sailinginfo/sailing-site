@@ -7,7 +7,6 @@ excerpt: >-
   A story about customer loyalty curabitur sed consectetur nisi. Integer sit
   amet commodo massa.
 image: /images/UNIPV-SAILING_MINI-BIANCO_BLU.png
-image_alt: A group of people working in a cafe
 thumb_image: images/3_thumb.jpg
 thumb_image_alt: A group of people working in a cafe
 seo:
