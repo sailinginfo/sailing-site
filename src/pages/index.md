@@ -86,7 +86,7 @@ sections:
     title: Latest Posts
     background: white
   - section_id: performance
-    title: lorem-ipsum
+    title: TEAM PERFORMANCE
     content: >-
       ## Lorem ipsum
 
