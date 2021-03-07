@@ -41,7 +41,7 @@ sections:
           can be contacted.
         is_required: true
     submit_label: Send Message
-    subtitle: Non ti è chiaro qualcosa o vorresti sapere qualcosa in più
+    subtitle: Non ti è chiaro qualcosa o vorresti sapere qualcosa in più?
 seo:
   type: stackbit_page_meta
   title: Contact
