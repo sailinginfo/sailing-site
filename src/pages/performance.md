@@ -74,6 +74,12 @@ sections:
     actions: []
     type: section_hero
     image: /images/2_thumb.jpg
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    features: []
+    type: section_features
 seo:
   title: ''
   description: ''
