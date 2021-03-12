@@ -97,6 +97,7 @@ sections:
     background: gray
     actions: []
     type: section_content
+    image: /images/1.png
 seo:
   title: ''
   description: ''
