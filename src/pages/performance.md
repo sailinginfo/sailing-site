@@ -54,11 +54,6 @@ sections:
     type: section_faq
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
-    actions: []
-    type: section_cta
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
