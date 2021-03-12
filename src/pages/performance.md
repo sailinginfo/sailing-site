@@ -77,24 +77,6 @@ sections:
     type: section_features
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
-    image_alt: lorem-ipsum
-    background: gray
-    actions: []
-    type: section_content
-    image: /images/1.png
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
     subtitle: lorem-ipsum
     background: gray
     type: section_posts
