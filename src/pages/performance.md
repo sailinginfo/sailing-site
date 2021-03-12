@@ -31,6 +31,12 @@ sections:
     background: gray
     pricing_plans: []
     type: section_pricing
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    background: gray
+    faq_items: []
+    type: section_faq
 seo:
   title: ''
   description: ''
