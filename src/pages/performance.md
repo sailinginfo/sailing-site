@@ -73,6 +73,7 @@ sections:
     image_alt: lorem-ipsum
     actions: []
     type: section_hero
+    image: /images/2_thumb.jpg
 seo:
   title: ''
   description: ''
