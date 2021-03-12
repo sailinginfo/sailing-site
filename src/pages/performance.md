@@ -27,12 +27,6 @@ sections:
     type: section_reviews
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
-    background: gray
-    pricing_plans: []
-    type: section_pricing
-  - section_id: lorem-ipsum
-    title: lorem-ipsum
     content: >-
       ## Lorem ipsum
 
